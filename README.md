@@ -1,4 +1,4 @@
-#InstagramBot
+# InstagramBot
 Script provide such scenarios:
 1. Login
 2. Open profile
