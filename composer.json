@@ -1,0 +1,14 @@
+{
+    "require": {
+        "facebook/webdriver": "^1.7",
+        "phpunit/phpunit": "~6.2.0",
+        "symfony/yaml": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": [
+                "app/"
+            ]
+        }
+    }
+}
